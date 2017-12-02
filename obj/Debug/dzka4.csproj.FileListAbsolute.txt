@@ -1,0 +1,7 @@
+C:\Users\ПетренковН\source\repos\dzka4\dzka4\bin\Debug\dzka4.exe.config
+C:\Users\ПетренковН\source\repos\dzka4\dzka4\bin\Debug\dzka4.exe
+C:\Users\ПетренковН\source\repos\dzka4\dzka4\bin\Debug\dzka4.pdb
+C:\Users\ПетренковН\source\repos\dzka4\dzka4\obj\Debug\dzka4.csprojResolveAssemblyReference.cache
+C:\Users\ПетренковН\source\repos\dzka4\dzka4\obj\Debug\dzka4.csproj.CoreCompileInputs.cache
+C:\Users\ПетренковН\source\repos\dzka4\dzka4\obj\Debug\dzka4.exe
+C:\Users\ПетренковН\source\repos\dzka4\dzka4\obj\Debug\dzka4.pdb
